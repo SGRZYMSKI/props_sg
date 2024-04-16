@@ -1,1 +1,1 @@
-print("hello world")
+print("geoinformatyka rządzi oh yeaaah!!")

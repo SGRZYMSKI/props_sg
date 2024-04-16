@@ -3,4 +3,4 @@ props_sg
 
 ## todo km:
 
-- [ ] write who rules in the hood
+- [x] write who rules in the hood
